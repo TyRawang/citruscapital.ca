@@ -1,0 +1,8 @@
+.DS_Store
+# old SiteSucker crawl, kept locally for reference only
+wp-content/
+wp-includes/
+wp-json/
+feed/
+comments/
+_downloads.html
